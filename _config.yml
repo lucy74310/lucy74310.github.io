@@ -4,7 +4,7 @@ title_right   : "" # default: ""
 description   : "cafe24 교육 그룹스터디 자료 블로그"
 keywords      : "javascript "
 url           : https://lucy74310.github.io # site url
-baseurl       : "mystudy" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
+baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
