@@ -4,11 +4,11 @@ layout: post
 title: "JS 데이터 타입 Boolean의 대체자"
 comments: true
 description: "JS"
-keywords: "JavaScript JS"
+
 ---
 
-### 01
-조건문에 사용될 수 있는 데이터 형이 꼭 불린만 되는 것은 아니다. 관습적인 이유로 0는 false 0이 아닌 값은 true로 간주된다. 아래의 예제는 2를 출력한다.
+###조건문에 사용될 수 있는 데이터 형이 꼭 불린만 되는 것은 아니다. 
+관습적인 이유로 0는 false 0이 아닌 값은 true로 간주된다. 아래의 예제는 2를 출력한다.
 
 if(0){
     alert(1)
