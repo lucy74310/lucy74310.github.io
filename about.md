@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Hello,
+
+This blog is for group study's reference or something else.. 
